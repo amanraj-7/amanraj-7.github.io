@@ -12,3 +12,7 @@ Before joining ASU, I earned my M.Sc. in Sustainable Systems from the [Rochester
 
 My academic journey began in India, where I completed an M.Sc. in Public Policy at the [Tata Institute of Social Sciences](https://tiss.ac.in/) under the guidance of [Dr. Chandrashekhar Joglekar](https://tiss.ac.in/view/9/employee/chandrashekhar-joglekar/), and a B.Tech. in Electronics and Communication Engineering at [VIT University, Vellore](https://vit.ac.in/). This interdisciplinary foundation — spanning engineering, policy, and systems thinking — continues to shape how I approach complex sustainability challenges.
 
+🚧 This website is currently in its *“under construction but intellectually thriving”* phase.
+
+As my good friend says, *“we believe in .”
+As my good friend  [Dr. Pulkit](https://pulkit-khandelwal.github.io/) says, “we believe in [**Slow Science**](http://slow-science.org/)” — meaning the website is evolving at a peer-review pace 😄
