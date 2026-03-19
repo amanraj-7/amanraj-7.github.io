@@ -23,7 +23,7 @@ repository               : "amanraj-7/amanraj-7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile Picture.jpg"
   name             : "Aman Raj"
   pronouns         : # example: "she/her"  
   bio              : "Phd Student @ ASU"
