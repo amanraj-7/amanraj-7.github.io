@@ -14,5 +14,4 @@ My academic journey began in India, where I completed an M.Sc. in Public Policy 
 
 🚧 This website is currently in its *“under construction but intellectually thriving”* phase.
 
-As my good friend says, *“we believe in .”
 As my good friend  [Dr. Pulkit](https://pulkit-khandelwal.github.io/) says, “we believe in [**Slow Science**](http://slow-science.org/)” — meaning the website is evolving at a peer-review pace 😄
