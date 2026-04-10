@@ -12,7 +12,7 @@ Before joining ASU, I earned my M.Sc. in Sustainable Systems from the [Rochester
 
 My academic journey began in India, where I completed an M.Sc. in Public Policy at the [Tata Institute of Social Sciences](https://tiss.ac.in/) under the guidance of [Dr. Chandrashekhar Joglekar](https://tiss.ac.in/view/9/employee/chandrashekhar-joglekar/), and a B.Tech. in Electronics and Communication Engineering at [VIT University, Vellore](https://vit.ac.in/). This interdisciplinary foundation — spanning engineering, policy, and systems thinking — continues to shape how I approach complex sustainability challenges.
 
-When my brain is not *braining*, you’ll likely find me immersed in the world of football. Whether I’m playing, watching, or diving deep into tactical analysis, the beautiful game is my primary language. As a dedicated Manchester United supporter (GGMU!), I pair my matchdays with a perfectly brewed cup of specialty coffee. Beyond the pitch, I’m an avid anime fan and a constant seeker of new music.
+When my brain is not *braining*, you’ll likely find me playing, watching, or diving deep into tactical analysis, of the world of football (US soccer). I'm an avid Manchester United fan (GGMU!). I also love a perfectly brewed cup of coffee. Beyond this, I love anime (One Piece) and a constant seeker of new music.
 
 As my good friend  [Dr. Pulkit](https://pulkit-khandelwal.github.io/) says, “we believe in [**Slow Science**](http://slow-science.org/)” — meaning the website is evolving at a peer-review pace 😄
 
