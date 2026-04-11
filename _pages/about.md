@@ -29,24 +29,24 @@ As my good friend  [Dr. Pulkit](https://pulkit-khandelwal.github.io/) says, “w
 ## News & Updates
 
 ### 2026
-* April 2026: Presented an oral talk on "Research by Grads" at the Circular Arizona event in Tempe, AZ.
+* April 2026: Presented an oral talk on "Research by Grads" at the *Circular Arizona* event in Tempe, AZ.
 * March 2026: My paper, "Anticipatory Life Cycle Assessment of an Industry-scale CdTe Photovoltaic Recycling Process in the United States," was published in the journal *Resource, Conservation and Recycling*.
-* February 2026: Presented a poster at the $16^{th}$ Annual School of Sustainable Engineering and the Built Environment (SSEBE) Graduate Poster Symposium at ASU.
+* February 2026: Presented a poster at the $16^{th}$ Annual School of Sustainable Engineering and the Built Environment (SSEBE) *Graduate Poster Symposium* at ASU.
 
 ### 2025
-* November 2025: Delivered an oral presentation at the American Institute of Chemical Engineers (AIChE) Annual Meeting in Boston, MA.
-* August 2025: Awarded the Fulton Fellowship at Arizona State University for the 2025-26 academic year.
-* June 2025: Participated in the $32^{nd}$ International Symposium on Sustainable Systems and Technology (ISSST) in Minneapolis, MN, providing both an oral and poster presentation.
-* January 2025: Honored with the SSEBE Travel Award from Arizona State University.
+* November 2025: Delivered an oral presentation at the *American Institute of Chemical Engineers (AIChE) Annual Meeting* in Boston, MA.
+* August 2025: Awarded the *Fulton Fellowship* at Arizona State University for the 2025-26 academic year.
+* June 2025: Participated in the *$32^{nd}$ International Symposium on Sustainable Systems and Technology (ISSST)* in Minneapolis, MN, providing both an oral and poster presentation.
+* January 2025: Honored with the *SSEBE Travel Award* from Arizona State University.
 * Ongoing 2025: Serving as a member of the student planning committee for the ISSST Conference.
 
 ### 2024
 * August 2024: Started my journey as a PhD student at Arizona State University under Dr. Dwarakanath Ravikumar.
-* August 2024: Awarded the Fulton Fellowship at Arizona State University for the 2024-25 academic year.
+* August 2024: Awarded the *Fulton Fellowship* at Arizona State University for the 2024-25 academic year.
 * July 2024: Graduated from Rochester Institute of Technology with a Master of Science in Sustainable Systems.
 
 ### 2023
-* August 2023: Finished a summer internship with COI Energy, Boston, US
+* August 2023: Finished a summer internship with *COI Energy*, Boston, US
 * January 2023: Joined Dr. Callie Babbitt’s lab at the Rochester Institute of Technology.
 
 ### 2022
