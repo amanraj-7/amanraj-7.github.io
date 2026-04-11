@@ -1,10 +1,10 @@
 ---
-title: "Extreme event-induced landslides and flooding in Darjeeling, 4-5 October 2025"
+title: "Anticipatory life cycle assessment of an industry-scale CdTe photovoltaic recycling process in the United States."
 collection: publications
-permalink: /publication/2026-01-01-extreme-event-induced-landslides-and-flooding-in-d
-venue: 'Landslides'
-date: '2026-01-01'
-paperurl: 'https://doi.org/10.1007/s10346-026-02743-8'
-citation: 'Ghosh, P., Bera, S., <strong>Dahal, K.</strong>, Melo, R., Tamang, S., Priyadarshi, S., & Talukdar, S. (2026). &quot;Extreme event-induced landslides and flooding in Darjeeling, 4-5 October 2025.&quot; <i>Landslides</i>.'
+permalink: /publication/2026-15-04-LCA-CdTe-USA
+venue: 'Resources, Conservation and Recycling'
+date: '2026-04-15'
+paperurl: '[https://doi.org/10.1007/s10346-026-02743-8](https://doi.org/10.1016/j.resconrec.2026.108891)'
+citation: '<strong>Raj, A.<strong>, Ravikumar, D., & Winicov, M. (2026). &quot;Anticipatory life cycle assessment of an industry-scale CdTe photovoltaic recycling process in the United States.&quot; <i>Resources, Conservation and Recycling<i>, 230, 108891.'
 ---
 
