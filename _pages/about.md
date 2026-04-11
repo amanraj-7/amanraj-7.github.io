@@ -31,12 +31,12 @@ As my good friend  [Dr. Pulkit](https://pulkit-khandelwal.github.io/) says, “w
 ### 2026
 * April 2026: Presented an oral talk on "Research by Grads" at the *Circular Arizona* event in Tempe, AZ.
 * March 2026: My paper, "Anticipatory Life Cycle Assessment of an Industry-scale CdTe Photovoltaic Recycling Process in the United States," was published in the journal *Resource, Conservation and Recycling*.
-* February 2026: Presented a poster at the $16^{th}$ Annual School of Sustainable Engineering and the Built Environment (SSEBE) *Graduate Poster Symposium* at ASU.
+* February 2026: Presented a poster at the 16th Annual School of Sustainable Engineering and the Built Environment (SSEBE) *Graduate Poster Symposium* at ASU.
 
 ### 2025
 * November 2025: Delivered an oral presentation at the *American Institute of Chemical Engineers (AIChE) Annual Meeting* in Boston, MA.
 * August 2025: Awarded the *Fulton Fellowship* at Arizona State University for the 2025-26 academic year.
-* June 2025: Participated in the $32^{nd}$ *International Symposium on Sustainable Systems and Technology (ISSST)* in Minneapolis, MN, providing both an oral and poster presentation.
+* June 2025: Participated in the *32nd International Symposium on Sustainable Systems and Technology (ISSST)* in Minneapolis, MN, providing both an oral and poster presentation.
 * January 2025: Honored with the *SSEBE Travel Award* from Arizona State University.
 * Ongoing 2025: Serving as a member of the student planning committee for the ISSST Conference.
 
