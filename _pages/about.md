@@ -2,22 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, School of Sustainable Engineering and the Built Environment, Arizona State University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>CESEM Lab</p>
-    <p>Arizona State University</p>
-    <p>Tempe, AZ</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # set to true once you add your own items to the _news folder
+  enabled: true # set to true once you add your own items to the _news folder
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
