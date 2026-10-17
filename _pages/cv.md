@@ -1,12 +1,42 @@
 ---
-layout: cv
-permalink: /cv/
+layout: null
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/AmanRaj_CV_June_2026.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+sitemap: false
 ---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <meta
+      http-equiv="refresh"
+      content="0; url={{ '/assets/pdf/Pulkit_Khandelwal_CV.pdf' | relative_url }}"
+    >
+
+    <link
+      rel="canonical"
+      href="{{ '/assets/pdf/Pulkit_Khandelwal_CV.pdf' | absolute_url }}"
+    >
+
+    <title>CV | Pulkit Khandelwal</title>
+  </head>
+
+  <body>
+    <script>
+      window.location.replace(
+        "{{ '/assets/pdf/AmanRaj_CV_June_2026.pdf' | relative_url }}"
+      );
+    </script>
+
+    <p>
+      Opening
+      <a href="{{ '/assets/pdf/Pulkit_Khandelwal_CV.pdf' | relative_url }}">
+        Pulkit Khandelwal’s CV
+      </a>…
+    </p>
+  </body>
+</html>
