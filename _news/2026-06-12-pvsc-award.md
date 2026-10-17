@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Award:** Received the Best Student Paper Award at the [54th IEEE Photovoltaic Specialists Conference (IEEE PVSC)](https://ieee-pvsc.org/PVSC54/index.php) in New Orleans for our RCR paper on life cycle assessment of US CdTe photovoltaic recycling.
+**Award:** Received the Best Student Paper Award at the [54th IEEE Photovoltaic Specialists Conference (IEEE PVSC)](https://ieee-pvsc.org/PVSC54/index.php) in New Orleans for our RCR [paper](https://www.sciencedirect.com/science/article/pii/S0921344926001151) on life cycle assessment of US CdTe photovoltaic recycling.
