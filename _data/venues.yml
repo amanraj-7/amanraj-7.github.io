@@ -1,9 +1,16 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Journal articles (blue)
+"RCR":
+  url: https://www.sciencedirect.com/journal/resources-conservation-and-recycling
+  color: "#1f5aa6"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# Conference proceedings (green)
+"PVSC":
+  url: https://ieee-pvsc.org/PVSC54/index.php
+  color: "#2e7d32"
 
-"Vision":
-  color: "#009f36"
+# Technical reports and in press (orange)
+"Report":
+  color: "#c25e00"
+
+"In Press":
+  color: "#c25e00"
