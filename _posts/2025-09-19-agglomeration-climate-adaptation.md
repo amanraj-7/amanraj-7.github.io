@@ -24,12 +24,26 @@ The biggest advantage of urban density is how quickly ideas move. Cities are hub
 - **Knowledge spillovers.** When skilled workers, universities, and industries sit close together, ideas spread easily. An urban planner, a data scientist, and a materials engineer can work together on data-driven, heat-resilient infrastructure in a way that would be much harder if they were scattered.
 - **Concentrations of talent.** Successful cities such as New York and London attract and develop skilled workers. That pool of engineers, climate scientists, urban planners, and emergency managers provides the expertise to design and deliver complex adaptation projects, and world-class universities act as anchors for it.
 
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lower_Manhattan_Skyline_September_2021.jpg/1280px-Lower_Manhattan_Skyline_September_2021.jpg" class="img-fluid rounded z-depth-1" alt="Lower Manhattan skyline seen from Pier 17" loading="lazy">
+  </div>
+</div>
+<div class="caption">Lower Manhattan, one of the densest concentrations of skilled workers and firms in the world. Photo: Kidfly182, <a href="https://commons.wikimedia.org/wiki/File:Lower_Manhattan_Skyline_September_2021.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div>
+
 ### Economies of scale in infrastructure
 
 Density makes large public investments cheaper per person, which matters a great deal for the expensive infrastructure adaptation requires.
 
 - **Capacity grows faster than cost.** For many systems, such as pipes, tanks, and treatment plants, capacity grows faster than the cost of building them. Similarly, a seawall or cooling network protects far more people per dollar in a dense city than across a dispersed population.
 - **Cheaper essential services.** Clean water, sanitation, and reliable electricity are critical during and after a climate shock, and they cost less to deliver per person in dense urban areas.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/London_MMB_%C2%BB129_Thames_Barrier.jpg/1280px-London_MMB_%C2%BB129_Thames_Barrier.jpg" class="img-fluid rounded z-depth-1" alt="The Thames Barrier in London" loading="lazy">
+  </div>
+</div>
+<div class="caption">The Thames Barrier protects central London from tidal flooding, the kind of large-scale adaptation infrastructure a dense city can justify. Photo: mattbuck, <a href="https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB129_Thames_Barrier.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div>
 
 ### Specialized skills and services
 
@@ -46,11 +60,25 @@ Agglomeration puts people, economic activity, and critical infrastructure in one
 - **Bigger disasters.** A hurricane, flood, or heat wave that hits a dense city affects far more people and causes far more economic damage than the same event in a sparsely populated area, as Hurricane Katrina showed in New Orleans in 2005. Nearly two-thirds of urban settlements with more than 5 million residents lie at least partly in low-elevation coastal zones, which leaves them especially exposed to sea-level rise and storm surges (McGranahan et al., 2007).
 - **Cascading failures.** The interconnectedness that makes urban life efficient also makes it fragile. Damage to a single power station, water treatment plant, or transit hub can trigger failures across an entire metropolitan system.
 
+<div class="row mt-3">
+  <div class="col-sm-8 mx-auto mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/NOAA_Katrina_NOLA_17th_Street_breach_Aug_31_2005.jpg" class="img-fluid rounded z-depth-1" alt="Aerial view of the 17th Street Canal floodwall breach in New Orleans after Hurricane Katrina" loading="lazy">
+  </div>
+</div>
+<div class="caption">The breach in the 17th Street Canal floodwall in New Orleans on August 31, 2005, after Hurricane Katrina. The flooded West End neighborhood is on the right. Image: NOAA, <a href="https://commons.wikimedia.org/wiki/File:NOAA_Katrina_NOLA_17th_Street_breach_Aug_31_2005.jpg">Wikimedia Commons</a>, public domain.</div>
+
 ### "Sterile" agglomeration
 
 In many cities in the developing world, the potential benefits of agglomeration are overwhelmed by congestion, pollution, inadequate housing, and crime. This is sometimes called **sterile agglomeration**: high density without the matching gains in productivity. These cities are crowded rather than productive.
 
 Climate risk deepens urban inequality. The urban poor are often concentrated in informal settlements, such as those in Mumbai, located in the most hazardous areas, including floodplains and unstable hillsides, with the least access to protective infrastructure and services. Climate shocks fall hardest on the most vulnerable, which undermines adaptation for the city as a whole.
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Slum_in_Dharavi_-_Kristian_Bertel.jpg/1280px-Slum_in_Dharavi_-_Kristian_Bertel.jpg" class="img-fluid rounded z-depth-1" alt="Dense informal housing in Dharavi, Mumbai" loading="lazy">
+  </div>
+</div>
+<div class="caption">Dharavi, one of the largest informal settlements in Asia, in the heart of Mumbai. Photo: Kristian Bertel, <a href="https://commons.wikimedia.org/wiki/File:Slum_in_Dharavi_-_Kristian_Bertel.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div>
 
 ### Locked in by location
 
