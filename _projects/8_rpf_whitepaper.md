@@ -4,9 +4,17 @@ title: Regional energy cooperation in South Asia
 description: A white paper on a regional parliamentary forum for cross-border energy trade
 importance: 3
 category: policy research
+img: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/South_Asia_%28orthographic_projection%29_with_national_boundaries.png/960px-South_Asia_%28orthographic_projection%29_with_national_boundaries.png
 ---
 
 **CUTS International** · Bangladesh, Bhutan, India, Nepal, and Sri Lanka · [Project page](https://cuts-ccier.org/developing-white-paper-on-rpf/)
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/South_Asia_%28orthographic_projection%29_with_national_boundaries.png/960px-South_Asia_%28orthographic_projection%29_with_national_boundaries.png" class="img-fluid rounded z-depth-1" alt="Map of South Asia" loading="lazy">
+  </div>
+</div>
+<div class="caption">Map of South Asia. Map: DrQuantum, <a href="https://commons.wikimedia.org/wiki/File:South_Asia_(orthographic_projection)_with_national_boundaries.png">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</div>
 
 #### About the project
 

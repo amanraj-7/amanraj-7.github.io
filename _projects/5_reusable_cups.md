@@ -4,9 +4,17 @@ title: Reusable vs. single-use beverage cups
 description: An anticipatory LCA of reusable cups across 7,688 US quick-service restaurants
 importance: 1
 category: lab research
+img: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg/960px-KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg
 ---
 
 **CESEM Lab** · Arizona State University · Led by [Dr. Dwarakanath Ravikumar](https://search.asu.edu/profile/1869256)
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg/960px-KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg" class="img-fluid rounded z-depth-1" alt="A reusable coffee cup" loading="lazy">
+  </div>
+</div>
+<div class="caption">A reusable coffee cup. Photo: Keepcupwiki, <a href="https://commons.wikimedia.org/wiki/File:KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div>
 
 #### The problem
 

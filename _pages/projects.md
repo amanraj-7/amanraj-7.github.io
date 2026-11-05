@@ -63,3 +63,20 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+---
+
+<div class="small" markdown="1">
+
+**Image credits**
+
+- A cracked solar panel near Leh, India. Photo: Kiran Jonnalagadda, <a href="https://commons.wikimedia.org/wiki/File:Cracked_solar_panel_near_Leh_(4336613925).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+- Solar panels at Wold Farm, East Riding of Yorkshire. Photo: David Brown, <a href="https://commons.wikimedia.org/wiki/File:Solar_panels_at_Wold_Farm_(geograph_6386472).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+- First Solar's Desert Sunlight solar farm, which uses CdTe modules. Photo: U.S. Department of the Interior, <a href="https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.
+- An anodized aluminum frame being attached to a PV module. Photo: Nosferatu it, <a href="https://commons.wikimedia.org/wiki/File:Pv_module_lamination_05.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+- A reusable coffee cup. Photo: Keepcupwiki, <a href="https://commons.wikimedia.org/wiki/File:KeepCup_Brew_Cork_Reusable_Coffee_Cup.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+- Electricity meters in India. Photo: Balaji Kasirajan, <a href="https://commons.wikimedia.org/wiki/File:Electricity_meters_in_India.JPG">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+- Station Road in Tanakpur, India. Photo: ArmouredCyborg, <a href="https://commons.wikimedia.org/wiki/File:Station_Road,_Tanakpur.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+- Map of South Asia. Map: DrQuantum, <a href="https://commons.wikimedia.org/wiki/File:South_Asia_(orthographic_projection)_with_national_boundaries.png">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+
+</div>
