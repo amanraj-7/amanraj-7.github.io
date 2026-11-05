@@ -5,6 +5,7 @@ date: 2025-09-19 09:00:00-0700
 description: The same forces that make cities productive can help them adapt to climate change, or trap them in high-risk places. A look at both sides of agglomeration.
 tags: climate cities adaptation
 categories: research
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Lower_Manhattan_Skyline_September_2021.jpg/1280px-Lower_Manhattan_Skyline_September_2021.jpg
 toc:
   sidebar: left
 ---
