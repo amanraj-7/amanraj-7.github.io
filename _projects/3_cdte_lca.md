@@ -4,17 +4,9 @@ title: US-specific LCA of CdTe PV recycling
 description: The first industry-sourced life cycle assessment of cadmium telluride module recycling in the United States
 importance: 3
 category: dissertation
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg/960px-02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg
 ---
 
 **Dissertation Chapter 3** · Arizona State University · Advisor: [Dr. Dwarakanath Ravikumar](https://search.asu.edu/profile/1869256)
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg/960px-02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg" class="img-fluid rounded z-depth-1" alt="First Solar's Desert Sunlight solar farm, which uses CdTe modules" loading="lazy">
-  </div>
-</div>
-<div class="caption">First Solar's Desert Sunlight solar farm, which uses CdTe modules. Photo: U.S. Department of the Interior, <a href="https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>
 
 #### The problem
 

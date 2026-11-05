@@ -4,17 +4,9 @@ title: Electric mobility and the jobs ecosystem
 description: Assessing how the transition to electric vehicles affects jobs and skills in Jaipur, India
 importance: 2
 category: policy research
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Station_Road%2C_Tanakpur.jpg/960px-Station_Road%2C_Tanakpur.jpg
 ---
 
 **CUTS International** · Jaipur, India · In partnership with Friedrich-Ebert-Stiftung India · [Project page](https://cuts-ccier.org/exploring-the-impact-of-electric-mobility-on-the-jobs-ecosystem/)
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Station_Road%2C_Tanakpur.jpg/960px-Station_Road%2C_Tanakpur.jpg" class="img-fluid rounded z-depth-1" alt="Station Road in Tanakpur, India" loading="lazy">
-  </div>
-</div>
-<div class="caption">Station Road in Tanakpur, India. Photo: ArmouredCyborg, <a href="https://commons.wikimedia.org/wiki/File:Station_Road,_Tanakpur.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</div>
 
 #### About the project
 

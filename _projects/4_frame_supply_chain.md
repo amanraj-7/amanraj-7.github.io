@@ -4,17 +4,9 @@ title: Aluminum vs. steel PV module frames
 description: A geospatial supply-chain LCA testing whether secondary metal information changes frame material preferences
 importance: 4
 category: dissertation
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pv_module_lamination_05.jpg/960px-Pv_module_lamination_05.jpg
 ---
 
 **Dissertation Chapter 4** · Arizona State University · Advisor: [Dr. Dwarakanath Ravikumar](https://search.asu.edu/profile/1869256)
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pv_module_lamination_05.jpg/960px-Pv_module_lamination_05.jpg" class="img-fluid rounded z-depth-1" alt="An anodized aluminum frame being attached to a PV module" loading="lazy">
-  </div>
-</div>
-<div class="caption">An anodized aluminum frame being attached to a PV module. Photo: Nosferatu it, <a href="https://commons.wikimedia.org/wiki/File:Pv_module_lamination_05.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</div>
 
 #### The problem
 

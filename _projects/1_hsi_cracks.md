@@ -4,17 +4,17 @@ title: Remote crack detection in PV modules
 description: Hyperspectral imaging and machine learning to distinguish glass and cell cracks in decommissioned modules
 importance: 1
 category: dissertation
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cracked_solar_panel_near_Leh_%284336613925%29.jpg/960px-Cracked_solar_panel_near_Leh_%284336613925%29.jpg
+img: assets/img/projects/hsi-cracked-cell.jpg
 ---
 
 **Dissertation Chapter 1** · Arizona State University · Advisor: [Dr. Dwarakanath Ravikumar](https://search.asu.edu/profile/1869256)
 
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cracked_solar_panel_near_Leh_%284336613925%29.jpg/960px-Cracked_solar_panel_near_Leh_%284336613925%29.jpg" class="img-fluid rounded z-depth-1" alt="A cracked solar panel near Leh, India" loading="lazy">
+  <div class="col-sm-8 mt-3 mt-md-0 mx-auto">
+    {% include figure.liquid loading="eager" path="assets/img/projects/hsi-cracked-cell.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">A cracked solar panel near Leh, India. Photo: Kiran Jonnalagadda, <a href="https://commons.wikimedia.org/wiki/File:Cracked_solar_panel_near_Leh_(4336613925).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>
+<div class="caption">Hyperspectral (VNIR) image of a test sample with cracked glass and a cracked silicon cell.</div>
 
 #### The problem
 
