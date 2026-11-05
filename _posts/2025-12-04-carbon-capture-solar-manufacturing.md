@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can carbon capture help make solar panels net-zero?
-date: 2026-11-04 09:00:00-0700
+date: 2025-12-04 09:00:00-0700
 description: Solar power is central to decarbonization, yet making solar panels still depends on carbon-intensive inputs. Here is where carbon capture and utilization could help, and where it falls short.
 tags: solar-pv carbon-capture life-cycle-assessment
 categories: research

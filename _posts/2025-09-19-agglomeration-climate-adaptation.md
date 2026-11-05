@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do big cities make climate adaptation easier or harder?
-date: 2026-11-04 17:00:00-0700
+date: 2025-09-19 09:00:00-0700
 description: The same forces that make cities productive can help them adapt to climate change, or trap them in high-risk places. A look at both sides of agglomeration.
 tags: climate cities adaptation
 categories: research

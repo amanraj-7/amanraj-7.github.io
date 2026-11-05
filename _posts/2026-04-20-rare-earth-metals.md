@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The hidden cost of clean energy, and how to cut it
-date: 2026-11-04 15:00:00-0700
+date: 2026-04-20 09:00:00-0700
 description: Rare earth metals power wind turbines, electric vehicles, and electronics, but mining them leaves a heavy environmental footprint. Here is where that footprint comes from and how cleaner extraction and recycling could shrink it.
 tags: energy materials circular-economy
 categories: research

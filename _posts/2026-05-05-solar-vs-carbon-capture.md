@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solar or carbon capture: where should the next climate dollar go?"
-date: 2026-11-04 12:00:00-0700
+date: 2026-05-05 09:00:00-0700
 description: Comparing the cost of cutting a ton of CO₂ with solar power versus carbon capture and storage, and why carbon capture still matters for the jobs only it can do.
 tags: energy climate policy
 categories: research
